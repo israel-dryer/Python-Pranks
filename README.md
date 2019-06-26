@@ -3,4 +3,4 @@ Yes, although you can do many USEFUL things in Python, sometimes you just need t
 
 |Prank Name | Description|
 |---|---|
-|[Back to Work Spam Email](https://github.com/israel-dryer/Python-Pranks/blob/master/Back-To-Work-Email/spam-email-meme-get-back-to-work.ipynb)| Send your friends a **barrage of emails** at regular intervals that say 'Back to Work' with a collection of randomly selected **Back to Work** memes. Use mine, or add your own.|
+|[Repeating random meme email](https://github.com/israel-dryer/Python-Pranks/blob/master/Troll-Email-Random-Meme/troll-email-random-meme.ipynb)| Send your friends a **barrage of emails** at regular intervals that say 'Back to Work' with a collection of randomly selected **Back to Work** memes. Use mine, or add your own.|
