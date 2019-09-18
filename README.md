@@ -1,5 +1,5 @@
 # Python-Pranks
-# FOR ENTERTAINMENT PURPOSES ONLY... WATCH AND USE AT YOUR OWN PERIL... IF THE FBI SHOWS UP AT YOUR DOOR FOR A DOS ATTACK... YOU'VE BEEN WARNED. 
+# FOR ENTERTAINMENT PURPOSES ONLY... USE AT YOUR OWN PERIL... IF THE FBI SHOWS UP AT YOUR DOOR FOR A DOS ATTACK... YOU'VE BEEN WARNED. 
 
 
 Yes, although you can do many USEFUL things in Python, sometimes you just need to have a little fun. I personally think these are awesome, but you should obviously know your audience and determine whether your 'victim(s)' have a sense of humor. So, use at your own peril. :-)
