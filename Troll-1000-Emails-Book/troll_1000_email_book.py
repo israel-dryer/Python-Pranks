@@ -60,7 +60,7 @@ print(f"Words per message: {msg_size}\nFinal message size: {final_msg_size}")
 user = 'me@gmail.com'
 password = 'pass@ord'
 fr_address = 'me@gmail.com'
-to_address = 'you@gmail.com,you2@gmail.com,you3@gmail.com'
+to_address = 'suedandaly@aol.com
 smtp_host = 'smtp.gmail.com' 
 smtp_port = 587
 
@@ -68,7 +68,7 @@ smtp_port = 587
 subject = 'War & Peace - Part '
 msg_text = ''
 start_pos = 0
-msg_count = 0
+msg_count = 50
 
 # create and send email
 ''' Open a connection to the email server, then create and send the email message in separate into 
